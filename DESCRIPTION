@@ -3,8 +3,8 @@ Title: expression and copy number data on clear cell renal carcinoma samples
 Version: 0.2.0
 Author: I. Cifola et al. in Cristina Battaglia Lab, University of Milan
 Description: Sample data for PREDA package
-Depends: R (>= 2.9.0), methods, Biobase, affy
-Suggests: annotate, hgu133plus2.db, hgu133plus2cdf, gahgu133plus2.db, gahgu133plus2cdf
+Depends: R (>= 2.9.0), methods, Biobase, affy, annotate, gahgu133plus2.db, gahgu133plus2cdf
+Suggests: hgu133plus2.db, hgu133plus2cdf
 Maintainer: Francesco Ferrari <francesco.ferrari@unimore.it>
 License: Artistic-2.0
 biocViews: ExperimentData, Cancer
