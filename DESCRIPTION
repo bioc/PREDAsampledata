@@ -1,10 +1,10 @@
 Package: PREDAsampledata
 Title: expression and copy number data on clear cell renal carcinoma samples
-Version: 0.15.0
+Version: 0.15.1
 Author: I. Cifola et al. in Cristina Battaglia Lab, University of Milan
 Description: Sample data for PREDA package. (annotations objects synchronized with GeneAnnot custom CDFs version 2.2.0)
-Depends: R (>= 2.9.0), methods, PREDA, Biobase, affy, annotate, gahgu133plus2.db, gahgu133plus2cdf
+Depends: R (>= 2.9.0), methods, PREDA, Biobase, affy, annotate
 Suggests: hgu133plus2.db, hgu133plus2cdf
-Maintainer: Francesco Ferrari <francesco.ferrari@unimore.it>
+Maintainer: Francesco Ferrari <francesco.ferrari@ifom.eu>
 License: Artistic-2.0
 biocViews: ExperimentData, Tissue, CancerData, KidneyCancerData, MicroarrayData, TissueMicroarrayData, ArrayExpress
